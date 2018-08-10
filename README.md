@@ -1,2 +1,3 @@
-# -rocket-EFK-Boilerplate
+# EFK Boilerplate
+
 A simple boilerplate to spin EFK stack
